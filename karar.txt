@@ -1,0 +1,7 @@
+KARAR DENEMESİ
+
+Bu dosya bir karar almayı denemek için oluşturulmuştur.
+
+Sonuç: Başarısız.
+
+Gerekçe: Toplantı henüz bitmedi.
